@@ -1,0 +1,5 @@
+print("Tarmiz :: Line 1")
+print("Tarmiz :: Line 2")
+print("Tarmiz :: Line 3")
+print("Tarmiz :: Line 4")
+print("Tarmiz :: Line 5")
